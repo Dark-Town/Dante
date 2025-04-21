@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Paid-Tech-Zone"><img src="https://github.com/username.png" width="250" height="250" alt="TCRONEB HACKX"/></a>
+ <a href="https://github.com/Paid-Tech-Zone"><img src="https://i.ibb.co/wrQ3Ndrs/IMG-20250420-WA0014.jpg" width="250" height="250" alt="TCRONEB HACKX"/></a>
 
    
