@@ -1,16 +1,16 @@
 {
   "description": "Dante",
-  "main": "./malvin.js",
+  "main": "./dante.js",
   "type": "commonjs",
   "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "pm2 start malvin.js --deep-monitoring --attach --name malvin",
-    "stop": "pm2 stop malvin",
-    "restart": "pm2 restart malvin"
+    "start": "pm2 start malvin.js --deep-monitoring --attach --name dante",
+    "stop": "pm2 stop dante",
+    "restart": "pm2 restart dante"
   },
-  "author": "Malvin Tech",
+  "author": "Dark-Town",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.7",
